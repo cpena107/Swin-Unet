@@ -38,7 +38,7 @@ fi
 if [ $batch_size ]; then
     BATCH_SIZE=$batch_size
 else
-    BATCH_SIZE=24
+    BATCH_SIZE=12
 fi
 
 echo "start train model"

@@ -103,7 +103,7 @@ if __name__ == "__main__":
             'Dataset': Synapse_dataset,
             'volume_path': args.volume_path,
             'list_dir': './lists/lists_Synapse',
-            'num_classes': 9,
+            'num_classes': 14,
             'z_spacing': 1,
         },
     }
